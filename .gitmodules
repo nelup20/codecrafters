@@ -1,0 +1,3 @@
+[submodule "http-server-rust"]
+	path = http-server-rust
+	url = https://github.com/nelup20/codecrafters-http-server-rust
