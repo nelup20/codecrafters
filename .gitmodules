@@ -4,3 +4,6 @@
 [submodule "shell-rust"]
 	path = shell-rust
 	url = https://github.com/nelup20/codecrafters-shell-rust
+[submodule "grep-rust"]
+	path = grep-rust
+	url = https://github.com/nelup20/codecrafters-grep-rust
