@@ -7,3 +7,6 @@
 [submodule "grep-rust"]
 	path = grep-rust
 	url = https://github.com/nelup20/codecrafters-grep-rust
+[submodule "interpreter-rust"]
+	path = interpreter-rust
+	url = https://github.com/nelup20/codecrafters-interpreter-rust
